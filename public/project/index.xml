@@ -5,7 +5,7 @@
     <link>http://localhost:54421/project/</link>
       <atom:link href="http://localhost:54421/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:54421/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Projects</title>
@@ -13,27 +13,34 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:54421/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54421/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>GRID4EARTH</title>
+      <link>http://localhost:54421/project/grid4earth/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54421/project/grid4earth/</guid>
+      <description>&lt;p&gt;GRID4EARTH is an ESA Digital Twin Earth activity building a unified, standardized data infrastructure based on Discrete Global Grid Systems (DGGS)—HEALPix and Zarr—for Copernicus Sentinel and Destination Earth data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project site&lt;/strong&gt; → 
+&lt;/p&gt;
+&lt;p&gt;Consortium: IFREMER, CNRS, Simula, University of Tartu, GEORODE.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:54421/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54421/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>PROTEUS</title>
+      <link>http://localhost:54421/project/proteus/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54421/project/proteus/</guid>
+      <description>&lt;p&gt;Led by Prof. Emilie Hooft.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:54421/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54421/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>WaterSmartLand</title>
+      <link>http://localhost:54421/project/watersmartland/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54421/project/watersmartland/</guid>
+      <description>&lt;p&gt;WaterSmartLand is an ERC Consolidator Grant developing a framework to find spatially optimal land management for nature-based solutions (wetlands, riparian buffer strips) to reduce agricultural nutrient runoff. It uses a DGGS data cube, machine learning, and process-based hydrological modelling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project site&lt;/strong&gt; → 
+&lt;/p&gt;
+&lt;p&gt;Led by Prof. Evelyn Uuemaa at the University of Tartu (2024–2029).&lt;/p&gt;</description>
     </item>
     
   </channel>
