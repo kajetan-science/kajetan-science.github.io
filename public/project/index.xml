@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hugo Academic CV Theme</title>
-    <link>http://localhost:54421/project/</link>
-      <atom:link href="http://localhost:54421/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:54421/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Projects</title>
-      <link>http://localhost:54421/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>GRID4EARTH</title>
-      <link>http://localhost:54421/project/grid4earth/</link>
+      <link>http://localhost:1313/project/grid4earth/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54421/project/grid4earth/</guid>
+      <guid>http://localhost:1313/project/grid4earth/</guid>
       <description>&lt;p&gt;GRID4EARTH is an ESA Digital Twin Earth activity building a unified, standardized data infrastructure based on Discrete Global Grid Systems (DGGS)—HEALPix and Zarr—for Copernicus Sentinel and Destination Earth data.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Project site&lt;/strong&gt; → 
 &lt;/p&gt;
@@ -25,18 +25,18 @@
     
     <item>
       <title>PROTEUS</title>
-      <link>http://localhost:54421/project/proteus/</link>
+      <link>http://localhost:1313/project/proteus/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54421/project/proteus/</guid>
+      <guid>http://localhost:1313/project/proteus/</guid>
       <description>&lt;p&gt;Led by Prof. Emilie Hooft.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WaterSmartLand</title>
-      <link>http://localhost:54421/project/watersmartland/</link>
+      <link>http://localhost:1313/project/watersmartland/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54421/project/watersmartland/</guid>
+      <guid>http://localhost:1313/project/watersmartland/</guid>
       <description>&lt;p&gt;WaterSmartLand is an ERC Consolidator Grant developing a framework to find spatially optimal land management for nature-based solutions (wetlands, riparian buffer strips) to reduce agricultural nutrient runoff. It uses a DGGS data cube, machine learning, and process-based hydrological modelling.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Project site&lt;/strong&gt; → 
 &lt;/p&gt;
