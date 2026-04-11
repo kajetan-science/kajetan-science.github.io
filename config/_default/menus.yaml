@@ -1,21 +1,94 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
+#   Menu entries are keyed by `identifier` (falls back to `name`).
+#   Sibling entries that share a name MUST carry unique identifiers.
 
 main:
-  - name: Home
+  - identifier: home
+    name: Home
     url: /
     weight: 10
-  - name: Projects
-    url: projects
+
+  - identifier: magma
+    name: Magma
+    url: /magma/
     weight: 20
-  - name: Publications
-    url: publications
+  - identifier: magma-projects
+    parent: magma
+    name: Projects
+    url: /magma/projects/
+    weight: 1
+  - identifier: magma-publications
+    parent: magma
+    name: Publications
+    url: /magma/publications/
+    weight: 2
+  - identifier: magma-press
+    parent: magma
+    name: Press
+    url: /magma/press/
+    weight: 3
+  - identifier: magma-packages
+    parent: magma
+    name: Packages
+    url: /magma/packages/
+    weight: 4
+
+  - identifier: water
+    name: Water
+    url: /water/
     weight: 30
-  # - name: News
-  #   url: /#news
-  #   weight: 13
-  # - name: Experience
-  #   url: experience/
-  #   weight: 20
+  - identifier: water-projects
+    parent: water
+    name: Projects
+    url: /water/projects/
+    weight: 1
+  - identifier: water-publications
+    parent: water
+    name: Publications
+    url: /water/publications/
+    weight: 2
+  - identifier: water-press
+    parent: water
+    name: Press
+    url: /water/press/
+    weight: 3
+  - identifier: water-packages
+    parent: water
+    name: Packages
+    url: /water/packages/
+    weight: 4
+
+  - identifier: quanta
+    name: Quanta
+    url: /quanta/
+    weight: 40
+  - identifier: quanta-projects
+    parent: quanta
+    name: Projects
+    url: /quanta/projects/
+    weight: 1
+  - identifier: quanta-publications
+    parent: quanta
+    name: Publications
+    url: /quanta/publications/
+    weight: 2
+
+  - identifier: people
+    name: People
+    url: /people/
+    weight: 50
+  - identifier: people-about
+    parent: people
+    name: About me
+    url: /people/about/
+    weight: 1
+  - identifier: people-colleagues
+    parent: people
+    name: Colleagues
+    url: /people/colleagues/
+    weight: 2
+
+  - identifier: site-index
+    name: Index
+    url: /site-index/
+    weight: 60

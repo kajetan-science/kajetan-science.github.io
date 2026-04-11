@@ -2,6 +2,8 @@
 title: PROTEUS
 date: 2024-01-01
 featured: false
+topics:
+  - magma
 summary: PROTEUS
 links:
   - type: site

@@ -20,6 +20,7 @@ sections:
       #   url: uploads/resume.pdf
     design:
       css_class: dark
+      hide_lists: true
       # Avatar customization
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
@@ -28,7 +29,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: volcano_nz.jpg #stacked-peaks.svg #norway.jpg #farngorn_nz.jpg #
+          filename: square_25_25_minus.gif #volcano_nz.jpg #stacked-peaks.svg #norway.jpg #farngorn_nz.jpg #
           filters:
             brightness: 1.0
           size: cover
@@ -47,23 +48,23 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: projects
-    content:
-      title: Recent projects
-      filters:
-        folders:
-          - project
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
     id: papers
     content:
       title: Featured Publications
       filters:
         folders:
           - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    id: projects
+    content:
+      title: Recent projects
+      filters:
+        folders:
+          - project
         featured_only: true
     design:
       view: article-grid

@@ -2,6 +2,8 @@
 title: GRID4EARTH
 date: 2024-01-01
 featured: true
+topics:
+  - water
 summary: ESA Digital Twin Earth — common DGGS (HEALPix, Zarr) for Copernicus and DestinE data.
 links:
   - type: site

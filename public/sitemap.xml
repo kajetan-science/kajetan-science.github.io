@@ -4,10 +4,6 @@
   
   
   <url>
-    <loc>http://localhost:1313/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/tags/copernicus/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/destine/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -24,6 +20,8 @@
   <url>
     <loc>http://localhost:1313/tags/machine-learning/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/topics/magma/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/tags/nature-based-solutions/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/project/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -36,23 +34,15 @@
   <url>
     <loc>http://localhost:1313/tags/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/topics/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/topics/water/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/project/watersmartland/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/blogpost/get-started/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/academic/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/blogpost/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/hugo-blox/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/markdown/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publication_types/article/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -62,9 +52,9 @@
   <url>
     <loc>http://localhost:1313/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/topics/quanta/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/publication/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publication_types/article-journal/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -72,8 +62,42 @@
   <url>
     <loc>http://localhost:1313/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/experience/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>http://localhost:1313/people/about/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/people/colleagues/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/site-index/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/magma/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/magma/packages/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/magma/press/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/magma/projects/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/magma/publications/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/package/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/people/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/press/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/quanta/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/quanta/projects/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/quanta/publications/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/water/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/water/packages/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/water/press/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/water/projects/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/water/publications/</loc><changefreq>weekly</changefreq></url></urlset>

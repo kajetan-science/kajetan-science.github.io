@@ -1,5 +1,7 @@
 ---
 title: "An example journal article"
+topics:
+  - water
 authors:
 - admin
 - Robert Ford

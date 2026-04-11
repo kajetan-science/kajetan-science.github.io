@@ -1,5 +1,7 @@
 ---
 title: 'An example conference paper'
+topics:
+  - magma
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

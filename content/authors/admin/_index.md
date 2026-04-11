@@ -49,19 +49,13 @@ profiles:
     label: ResearchGate
 # flickr
 
-interests:
-  - Earth system science
-  - Data-driven inverse problems
-  - Origin of life & consciousness 
-  - Effective charitable actions
-
 education:
   - area: PhD Geophysics (Seismology)
     institution: Imperial College London
     date_start: 2017-01-01
     date_end: 2021-12-31
     summary: |
-      Cutting-edge high-resolution elastic-wave imaging of 3D internal structure of active volcanoes applicable to a variety of industrial, academic and medical problems.
+      High-resolution elastic-wave imaging of 3D internal structure of active volcanoes, applicable to industrial, academic, and medical problems.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -75,13 +69,12 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA:
   - area: BSc Geology (Plate Tectonics)
     institution: University of Warsaw
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA:
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -180,5 +173,10 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
-I am a physicist, geologist, and a software developer with a PhD in computational geophysics from Imperial College London. I have worked on full-waveform inversion for volcano imaging, source apportionment of river pollution, lithosphere-asthenosphere boundary, exotic atomic nuclei, among other research topics. My background is in nuclear physics and tectonics.
+I am a physicist, geologist, and open-source software developer with a PhD in computational geophysics from Imperial College London.
+
+My current work focuses on high-resolution, explainable prediction of water pollution on a continental scale, driven by big satellite and climate data. I also contribute to the development of discrete global grid systems (DGGS) for the European Space Agency.
+
+I have worked on full-waveform inversion for volcano imaging, source apportionment of river pollution, lithosphere-asthenosphere boundary, exotic atomic nuclei, among other research topics. My background is in nuclear physics and tectonics.
+
+I hope you will find something inspiring on this website. I divided its research content into 3 broad topics: magma, water, quanta. Remember that any such division is artificial — nature evades clear-cut divisions. For example, magma generation depends heavily on water and its absolutely unique properties — a direct consequence of quantum properties of oxygen and hydrogen atoms.

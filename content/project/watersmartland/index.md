@@ -2,6 +2,8 @@
 title: WaterSmartLand
 date: 2024-01-01
 featured: true
+topics:
+  - water
 summary: ERC Consolidator Grant — DGGS, ML, and hydrological modelling for nature-based solutions and nutrient runoff.
 links:
   - type: site
