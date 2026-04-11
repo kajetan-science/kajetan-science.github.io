@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Kajetan Chrapkiewicz
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Dr. Kajetan Chrapkiewicz
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kajetan
+last_name: Chrapkiewicz
 
 # Pronouns (optional)
-pronouns: she/her
+# pronouns: she/her
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: 🌍
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,69 +23,65 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Tartu
+    url: https://www.landscape-geoinformatics.ut.ee/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kajetan.chrapkiewicz@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/kajetan-chrapkiewicz/
+  - icon: brands/github
+    url: https://github.com/kmch
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-6949-9741
+  - icon: academicons/google-scholar
+    url: https://scholar.google.pl/citations?user=-wMKuxkAAAAJ&hl=en
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Kajetan-Chrapkiewicz
+    label: ResearchGate
+# flickr
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Earth system science
+  - Data-driven inverse problems
+  - Origin of life & consciousness 
+  - Effective charitable actions
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Geophysics (Seismology)
+    institution: Imperial College London
+    date_start: 2017-01-01
+    date_end: 2021-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Cutting-edge high-resolution elastic-wave imaging of 3D internal structure of active volcanoes applicable to a variety of industrial, academic and medical problems.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Geophysics (Seismology)
+    institution: University of Warsaw
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Physics (Nuclear Physics)
+    institution: University of Warsaw
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA:
+  - area: BSc Geology (Plate Tectonics)
+    institution: University of Warsaw
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA:
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -185,5 +181,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a physicist, geologist, and a software developer with a PhD in computational geophysics from Imperial College London. I have worked on full-waveform inversion for volcano imaging, source apportionment of river pollution, lithosphere-asthenosphere boundary, exotic atomic nuclei, among other research topics. My background is in nuclear physics and tectonics.
