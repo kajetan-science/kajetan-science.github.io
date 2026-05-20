@@ -1,5 +1,5 @@
 ---
-title: 'Quanta — Publications'
+title: 'Quantum — Publications'
 type: landing
 
 design:

@@ -58,20 +58,25 @@ main:
     url: /water/packages/
     weight: 4
 
-  - identifier: quanta
-    name: Quanta
-    url: /quanta/
+  - identifier: quantum
+    name: Quantum
+    url: /quantum/
     weight: 40
-  - identifier: quanta-projects
-    parent: quanta
+  - identifier: quantum-projects
+    parent: quantum
     name: Projects
-    url: /quanta/projects/
+    url: /quantum/projects/
     weight: 1
-  - identifier: quanta-publications
-    parent: quanta
+  - identifier: quantum-publications
+    parent: quantum
     name: Publications
-    url: /quanta/publications/
+    url: /quantum/publications/
     weight: 2
+  - identifier: quantum-musings
+    parent: quantum
+    name: Musings
+    url: /quantum/musings/
+    weight: 3
 
   - identifier: people
     name: People

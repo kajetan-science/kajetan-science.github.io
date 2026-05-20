@@ -1,5 +1,5 @@
 ---
-title: 'Quanta — Projects'
+title: 'Quantum — Projects'
 type: landing
 
 design:
@@ -8,7 +8,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Quanta Projects
+      title: Quantum Projects
       filters:
         folders: [project]
         topic: quanta

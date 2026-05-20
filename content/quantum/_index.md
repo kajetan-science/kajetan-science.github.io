@@ -1,5 +1,5 @@
 ---
-title: Quanta
+title: Quantum
 type: landing
 
 design:
@@ -8,7 +8,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: Quanta
+      title: Quantum
       text: |
         Research and publications related to nuclear physics and quantum matter.
 ---

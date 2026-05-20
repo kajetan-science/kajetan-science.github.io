@@ -1,7 +1,7 @@
 ---
-title: "An example preprint / working paper"
+title: "Magma under Kolumbo volcano, Santorini"
 topics:
-  - quanta
+  - volcano
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -18,13 +18,15 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: First-ever volcanological application of FWI (next-generation tomographic method) with extraordinarily dense seafloor recordings of controlled marine sound sources.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: First-ever volcanological application of FWI (next-generation tomographic method) with extraordinarily dense seafloor recordings of controlled marine sound sources.
 
 tags:
-- Large Language Models
+- 3D imaging
+- seismic tomography
+- full-waveform inversion
 
 featured: true
 
@@ -55,7 +57,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Chrapkiewicz et al. (2022)'
   focal_point: ""
   preview_only: false
 

@@ -27,14 +27,13 @@ sections:
         shape: circle # Options: circle (default), square, rounded
       background:
         color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: square_25_25_minus.gif #volcano_nz.jpg #stacked-peaks.svg #norway.jpg #farngorn_nz.jpg #
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        # image:
+        #   filename: square_25_25_minus.gif
+        #   filters:
+        #     brightness: 1.0
+        #   size: cover
+        #   position: center
+        #   parallax: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'

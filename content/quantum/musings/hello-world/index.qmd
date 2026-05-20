@@ -1,0 +1,24 @@
+---
+title: "Hello, World"
+date: 2026-05-01
+summary: "A first Quarto musing — Python code running on the site."
+tags: []
+jupyter: volcan
+---
+
+This page is rendered from a [Quarto](https://quarto.org) document.
+The Python code below runs at build time; the output is baked into the page.
+
+```{python}
+msg = "Hello, World!"
+print(msg)
+```
+
+```{python}
+import math
+
+for n in range(1, 6):
+    print(f"  {n}! = {math.factorial(n)}")
+```
+
+Simple as that.
