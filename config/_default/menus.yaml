@@ -22,6 +22,11 @@ main:
     name: Publications
     url: /magma/publications/
     weight: 2
+  - identifier: magma-musings
+    parent: magma
+    name: Musings
+    url: /magma/musings/
+    weight: 2.5
   - identifier: magma-press
     parent: magma
     name: Press
@@ -47,6 +52,11 @@ main:
     name: Publications
     url: /water/publications/
     weight: 2
+  - identifier: water-musings
+    parent: water
+    name: Musings
+    url: /water/musings/
+    weight: 2.5
   - identifier: water-press
     parent: water
     name: Press

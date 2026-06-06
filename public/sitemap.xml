@@ -4,11 +4,19 @@
   
   
   <url>
+    <loc>http://localhost:1313/magma/</loc><lastmod>2026-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/magma/musings/music-theory/</loc><lastmod>2026-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/magma/musings/</loc><lastmod>2026-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/water/musings/</loc><lastmod>2026-05-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/water/musings/sentinel-3-synergy/</loc><lastmod>2026-05-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/water/</loc><lastmod>2026-05-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/water/musings/bit-of-bit-magic/</loc><lastmod>2026-05-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/water/musings/</loc><lastmod>2026-05-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/water/</loc><lastmod>2026-05-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/quantum/musings/fourier/</loc><lastmod>2026-05-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -89,8 +97,6 @@
     <loc>http://localhost:1313/people/colleagues/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/site-index/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/magma/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/magma/packages/</loc><changefreq>weekly</changefreq></url>
   <url>
